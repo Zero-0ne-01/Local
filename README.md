@@ -1,2 +1,2 @@
 
-simple ellipae drawing 
+simple ellipse drawing 
